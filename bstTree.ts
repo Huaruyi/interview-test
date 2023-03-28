@@ -23,7 +23,7 @@ class SearchTree {
         }
 
         let p = this.root;
-
+        console.log("p = ", this.root)
         while(1) {
             if (p.key > key) {
 
