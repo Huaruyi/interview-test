@@ -143,6 +143,7 @@ class SearchTree {
 
         if (!node) {
             return;
+
         }
 
         // leaf node
